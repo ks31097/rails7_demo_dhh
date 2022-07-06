@@ -1,6 +1,10 @@
 DHH Rails 7 Demo
+---
 
-Quick preview of Rails 7 structure and functions
+> Quick preview of Rails 7 structure and functions
 
-Resource:
-https://www.youtube.com/watch?v=mpWFrUwAN88
+# Resource:
+
+- DHH demo rails7
+
+[![Rails 7 Demo](https://img.youtube.com/vi/mpWFrUwAN88/0.jpg)](https://www.youtube.com/watch?v=mpWFrUwAN88)
